@@ -1,4 +1,10 @@
-header{ 
+.cabeçalho { 
     background-color: #3EBE29;
     color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
 }
